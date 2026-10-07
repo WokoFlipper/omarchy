@@ -4,7 +4,7 @@ Omarchy — не только про _пРоДуКТиВнОсТь_, но и п�
 
 Спасибо невероятной работе Valve над [слоем совместимости proton](https://en.wikipedia.org/wiki/Proton_(software)) — на Linux играбельны десятки тысяч современных игр. О, а ты знал, что [Steam Deck](https://store.steampowered.com/steamdeck/) вообще едет на Arch!
 
-Все игровые инсталлеры живут в _Установить > Игры_ в меню Omarchy (`Super + Space`). Откатить — в _Удалить > Игры_.
+Все игровые инсталяторы живут в _Установить > Игры_ в меню Omarchy (`Super + Space`). Откатить — в _Удалить > Игры_.
 
 ## Steam
 
@@ -28,7 +28,7 @@ RetroArch полностью преднастроен с красивущим CR
 2. Запусти RetroArch с `Super + Space`, напечатав `retro`.
 3. Проскань каталог `~/Games/roms` — можно играть.
 
-Любимой игре можно дать свою запись в лаунчере через _Установить > Игры > RetroArch Game Launcher_: выбираешь ядро и ROM — и прыгаешь straight в игру из `Super + Space`.
+Любимой игре можно дать свою запись в лаунчере через _Установить > Игры > RetroArch Game Launcher_: выбираешь ядро и ROM — и попадаешь прямо в игру из `Super + Space`.
 
  ![gaming-retroarch](images/gaming-retroarch.webp)
 
@@ -74,7 +74,7 @@ RetroArch полностью преднастроен с красивущим CR
 
 ## Lutris (игры Windows)
 
-Ставится [Lutris](https://lutris.net/) через _Установить > Игры > Lutris_ в меню Omarchy (`Super + Space`). Lutris — способ играть в игры Окна из сторов вроде EA и Ubisoft Connect, у которых своего инсталлера выше нет.
+Ставится [Lutris](https://lutris.net/) через _Установить > Игры > Lutris_ в меню Omarchy (`Super + Space`). Lutris — способ играть в игры Окна из сторов вроде EA и Ubisoft Connect, у которых своего инсталятора выше нет.
 
 Установка слегка джанки и временами выглядит, будто ничего не происходит, — просто потерпи, в фоне работает.
 

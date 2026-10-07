@@ -33,7 +33,7 @@ var labels = {
   "Back to today": "Вернуться к сегодняшнему дню",
   "Balanced": "Сбалансированный",
   "Battery": "Батарея",
-  "Battery size": "Размер батареи",
+  "Battery size": "Ёмкость батареи",
   "Battery state": "Состояние батареи",
   "Bending light": "Гнём свет",
   "Bleeding amps": "Разряд",

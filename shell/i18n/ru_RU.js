@@ -197,7 +197,7 @@ var labels = {
   "Spending coulombs": "Тратим кулоны",
   "Spending joules": "Тратим джоули",
   "Start weeks on %1": "Неделя с %1",
-  "Stay Awake": "Разрешить сон",
+  "Stay Awake": "Отключить сон",
   "Stay on %1": "Остаться на %1",
   "Steady groove": "Умеренно",
   "Stop recording": "Остановить запись",

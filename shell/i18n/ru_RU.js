@@ -2,7 +2,7 @@
 // Keys intentionally match the English source labels so extensions and
 // third-party plugins continue to work without changing their IDs.
 // Port of the yatstudio zh_CN pattern for ru_RU; strings from the live
-// Russian pack (proofread, 242 keys).
+// Russian pack (proofread, 243 keys).
 var labels = {
   "%1 Monthly": "Месячный (%1)",
   "%1 Session": "Сессия (%1)",
@@ -245,5 +245,6 @@ var labels = {
   "Wrong password": "Неверный пароль",
   "ddd M/d": "ddd, d.M",
   "estimated": "примерно",
+  "km/h": "м/с",
   "now": "сейчас"
 }
